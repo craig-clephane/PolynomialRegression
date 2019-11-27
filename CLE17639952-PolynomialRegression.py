@@ -1,3 +1,7 @@
+#Author: Craig Clephane
+#Last Edited: 27/11/2019
+#Python Version 3.7.4
+
 #List of imports used throughout the application 
 import numpy as np
 import matplotlib.pyplot as plt
